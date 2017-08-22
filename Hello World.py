@@ -1,4 +1,4 @@
-#A very basic C++ program
+#A very basic Python 3.0+ program
 #It just prints the String "Hello World !"
 
 print ("Hello World ! ")
