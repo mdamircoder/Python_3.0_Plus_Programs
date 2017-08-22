@@ -1,7 +1,7 @@
 #A very basic C++ program
 #It just prints the String "Hello World !"
 
-print ("Hello World !")
+print ("Hello World ! ")
 
 # By default print function prints a new line at the end
 # If you don't want to print the new line at the end, then use the following
