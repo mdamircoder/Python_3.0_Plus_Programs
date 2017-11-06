@@ -14,7 +14,7 @@ print( "GCD for the elements of the list :", result )
 '''#######################################################
 
 You can find gcd of more than two numbers stored in a list.
-**  Don't Forget 'from math import gcd'
+**  Don't Forget to import i.e. 'from math import gcd'
 Remember, gcd(-a, -b) = gcd(-a, b) = gcd(a, -b) = gcd(a, b)
 
 ################ S A M P L E   O U T P U T ###############
