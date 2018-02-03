@@ -24,7 +24,6 @@ def Max_Prime_Divisor(n):
     return PrDiv
 
 #============================  INPUT SECTION  ============================ 
-
 n = 1564
 print("Maximum prime divisor of", n, "is", Max_Prime_Divisor(n)) #23
 
@@ -33,6 +32,7 @@ print("Maximum prime divisor of", n, "is", Max_Prime_Divisor(n)) #5
 
 n = 89
 print("Maximum prime divisor of", n, "is", Max_Prime_Divisor(n)) #N.A.
+
 n = 1
 print("Maximum prime divisor of", n, "is", Max_Prime_Divisor(n)) #-1
 
